@@ -33,5 +33,6 @@ Add any additional notes or instructions for fact-checkers.
 **Labels:**
 - [ ] Fact-Check Request
 - [ ] Priority: High/Medium/Low
+- [ ] Assignees
 - [ ] Needs Review
 - [ ] Deadline: [Insert Deadline]
