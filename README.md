@@ -6,14 +6,18 @@ Welcome to the Oct7FactCheck Website repository! This repository is dedicated to
 
 We encourage the public to submit fact-check requests via GitHub Issues. To submit a fact-check request, follow these steps:
 
+
 1. Click on the [Issues](../../issues) tab.
 2. Click on the green "New issue" button.
 3. Select the "Fact-Check Request" template.
 4. Fill in the required details, including a description of the claim, its source, context, and any evidence.
-5. Assign the appropriate priority level and deadline if applicable.
+5. Assign the appropriate priority level if applicable.
 6. Click "Submit new issue" to submit your fact-check request.
 
 Our team of fact-checkers will review your request and work on verifying the accuracy of the claim.
+
+**Note**:  You'll need a GitHub account to submit an issue. Alternatively, you can submit your request over the Discord server. [tfp-oct7factcheck](https://discord.com/channels/1186702814341234740/1195760902260142262) tagging the message with #FactCheckRequest 
+
 
 ## Contributing
 
