@@ -1,8 +1,8 @@
 ---
 name: Fact-Check Request
-about: 'Template for any FactCheck Requests '
+about: 'Template for FactCheck Requests '
 title: "[FactCheck]"
-labels: FactCheck
+labels: Fact-Check Request
 assignees: ''
 
 ---
