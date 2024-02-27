@@ -1,42 +1,37 @@
 ---
 name: Resource Submission
-description: 'Template for Resources Submission'
+description: Template for Resources Submission
 title: "[Resource]"
 labels: Resources
-
 body:
   - type: input
     id: title
     attributes:
       label: "Resource Title:"
       placeholder: "[Title of the Resource]"
-        
   - type: dropdown
     id: type
-    attributes: 
-       label: "[Type of Resource: e.g., Article, Study, Video, Infographic]"
-       options: 
-         - News Article
-         - Study
-         - Video
-         - Inforgraphic
-         - Social Media
-         - Others
-         
+    attributes:
+      label: "[Type of Resource: e.g., Article, Study, Video, Infographic]"
+      options:
+        - News Article
+        - Study
+        - Video
+        - Inforgraphic
+        - Social Media
+        - Others
   - type: textarea
-    id: descrpition 
-    attributes: 
-       label: "Description:" 
-       placeholder: "[Brief description of the resource and its relevance to fact-checking]"
-
+    id: descrpition
+    attributes:
+      label: "Description:"
+      placeholder: "[Brief description of the resource and its relevance to fact-checking]"
   - type: textarea
-    id: link 
-    attributes: 
-         label: "Link:" 
-         placeholder: "[resource title](URL link)"
-         
-   - type: input
-      id: related
-      attributes: 
-         label: "This resource submission is related to"
-         placeholder: [Fact-Check Request ####]
+    id: link
+    attributes:
+      label: "Link:"
+      placeholder: "[resource title](URL link)"
+  - type: input
+    id: related
+    attributes:
+      label: This resource submission is related to
+      placeholder: "[Fact-Check Request ####]"
