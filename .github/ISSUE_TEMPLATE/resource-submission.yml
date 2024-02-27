@@ -35,3 +35,4 @@ body:
     attributes:
       label: This resource submission is related to
       placeholder: "[Fact-Check Request ####]"
+      value: "[Fact-Check Request ##]"
