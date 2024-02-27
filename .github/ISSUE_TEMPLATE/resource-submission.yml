@@ -6,15 +6,14 @@ labels: Resources
 
 body:
   - type: input
-      id: title
-      attributes:
-        value: |
-          label: Resource Title:
-          placeholder: "[Title of the Resource]"
+    id: title
+    attributes:
+      label: Resource Title:
+      placeholder: "[Title of the Resource]"
         
   - type: dropdown
-      id: type
-      attributes: 
+    id: type
+    attributes: 
        label: [Type of Resource: e.g., Article, Study, Video, Infographic]
        options: 
          - News Article
@@ -25,19 +24,19 @@ body:
          - Others
          
   - type: textarea
-      id: descrpition 
-      attributes: 
+    id: descrpition 
+    attributes: 
        label: Description: 
        placeholder: "[Brief description of the resource and its relevance to fact-checking]"
 
   - type: textarea
-      id: link 
-      attributes: 
+    id: link 
+    attributes: 
          label: Link: 
          placeholder: "[resource title](URL link)"
          
    - type: input
-       id: related
-       attributes: 
+      id: related
+      attributes: 
          label: This resource submission is related to
          placeholder: [Fact-Check Request ####]
