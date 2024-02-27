@@ -1,6 +1,5 @@
 name: "Question Submission From"
 description: Use this template to submit a question.
-
 title: '[Date]: [Question]'
 labels: ["Question"]
 
