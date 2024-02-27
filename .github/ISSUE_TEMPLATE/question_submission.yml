@@ -7,12 +7,12 @@ body:
   - type: markdown
     attributes:
       value: "## Welcome! Use this template to submit a question!"
+      
   - type: textarea
     id: question
     attributes:
       label: What is the question you want to raise?
       description: Write the quesiton of interest 
-      placeholder: Tell us what you see!
       value: "[Your question here]" 
   
   - type: textarea
