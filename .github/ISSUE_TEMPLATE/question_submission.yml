@@ -1,0 +1,15 @@
+name: Question Submission
+
+about: Use this template to submit a question.
+
+title: '[Question]'
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Question:** [Your question here]
+        
+        **Description:** [Additional context or details related to the question]
+        
+        **Tags:** [Optional: Tags or keywords to categorize the question]
