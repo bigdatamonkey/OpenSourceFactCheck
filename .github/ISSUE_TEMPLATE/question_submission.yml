@@ -1,13 +1,22 @@
 name: Question Submission
 description: Use this template to submit a question.
 
-title: '[Question]'
+title: '[Date]: [Question]'
+labels: ["Question"]
 
 body:
   - type: markdown
     attributes:
       value: |
-        **Question:** [Your question here]
+        **Question:** 
+  
+   - type: textarea
+    id: question
+    attributes:
+      label: What is the qesution you want to raise?
+      description: Write the quesiton of interest 
+      placeholder: Tell us what you see!
+      value: "Write your question here"
         
         **Description:** [Additional context or details related to the question]
         
