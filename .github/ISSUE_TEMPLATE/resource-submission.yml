@@ -11,7 +11,8 @@ body:
       value: |
         label: Resource Title:
         placeholder: "[Title of the Resource]"
-   - type: dropdown
+        
+  - type: dropdown
      id: type
      attributes: 
        label: [Type of Resource: e.g., Article, Study, Video, Infographic]
@@ -22,17 +23,19 @@ body:
          -Inforgraphic
          -Social Media
          -Others
-   - type: textarea
+         
+  - type: textarea
      id: descrpition 
      attributes: 
        label: Description: 
        placeholder: "[Brief description of the resource and its relevance to fact-checking]"
 
-   - type: textarea
+  - type: textarea
        id: link 
        attributes: 
          label: Link: 
          placeholder: "[resource title](URL link)"
+         
    - type: input
        id: related
        attributes: 
