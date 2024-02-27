@@ -1,6 +1,6 @@
 name: "Question Submission From"
 description: Use this template to submit a question to the team 
-title: '[Question]:$question'
+title: '[Question]:'
 labels: ["Question"]
 
 body:
@@ -10,7 +10,7 @@ body:
   - type: textarea
     id: question
     attributes:
-      label: What is the qesution you want to raise?
+      label: What is the question you want to raise?
       description: Write the quesiton of interest 
       placeholder: Tell us what you see!
       value: "[Your question here]" 
