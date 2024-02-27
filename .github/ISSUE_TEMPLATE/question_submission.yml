@@ -5,7 +5,7 @@ labels: ["Question"]
 
 body:
   - type: markdown
-    id: question
+    id: into
     attributes:
       value: |
         **Question:**  
@@ -19,7 +19,7 @@ body:
       value: "[Your question here]" 
   
   - type: textarea
-    id: question
+    id: description
     attributes:
       label: "**Description:**"
       description: Additional context or details related to the question
