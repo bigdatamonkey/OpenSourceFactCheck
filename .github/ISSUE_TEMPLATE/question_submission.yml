@@ -6,7 +6,7 @@ labels: ["Question"]
 body:
   - type: markdown
     attributes:
-    value: "## Welcome! Use this template to submit a question!"
+      value: "## Welcome! Use this template to submit a question!"
   - type: textarea
     id: question
     attributes:
