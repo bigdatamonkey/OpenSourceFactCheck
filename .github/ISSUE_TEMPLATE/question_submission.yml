@@ -6,6 +6,7 @@ labels: ["Question"]
 
 body:
   - type: markdown
+    id: question
     attributes:
       value: |
         **Question:** 
