@@ -1,10 +1,12 @@
 name: "Question Submission From"
 description: Use this template to submit a question to the team 
-title: '[Question]:[Question title]'
+title: '[Question]:$question'
 labels: ["Question"]
 
 body:
-
+  - type: markdown
+    attributes:
+    value: "## Welcome! Use this template to submit a question!"
   - type: textarea
     id: question
     attributes:
