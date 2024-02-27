@@ -2,7 +2,7 @@
 name: Fact-Check Request
 about: 'Template for FactCheck Requests '
 title: "[FactCheck]"
-labels: Fact-Check Request
+labels: Enhancement, Fact-Check Request
 assignees: ''
 
 ---
