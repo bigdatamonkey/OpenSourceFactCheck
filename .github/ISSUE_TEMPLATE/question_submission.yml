@@ -8,7 +8,7 @@ body:
     id: question
     attributes:
       value: |
-        **Question:**
+        **Question:**  
   
   - type: textarea
     id: question
@@ -16,9 +16,9 @@ body:
       label: What is the qesution you want to raise?
       description: Write the quesiton of interest 
       placeholder: Tell us what you see!
-      value: "[Your question here]"
-   
-    - type: textarea
+      value: "[Your question here]" 
+  
+  - type: textarea
     id: question
     attributes:
       label: "**Description:**"
