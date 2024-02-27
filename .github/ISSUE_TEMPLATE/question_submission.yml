@@ -13,11 +13,11 @@ body:
     attributes:
       label: What is the question you want to raise?
       description: Write the quesiton of interest 
-      value: "[Your question here]" 
+      placeholder: "[Your question here]" 
   
   - type: textarea
     id: description
     attributes:
       label: "**Description:**"
       description: Additional context or details related to the question
-      value: "[Your text here]"
+      placeholder: "[Your text here]"
