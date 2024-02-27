@@ -9,16 +9,14 @@ body:
     id: question
     attributes:
       value: |
-        **Question:** 
+        **Question:**
+        **Description:** [Additional context or details related to the question]
+        **Tags:** [Optional: Tags or keywords to categorize the question]
   
-   - type: textarea
+  - type: textarea
     id: question
     attributes:
       label: What is the qesution you want to raise?
       description: Write the quesiton of interest 
       placeholder: Tell us what you see!
       value: "Write your question here"
-        
-        **Description:** [Additional context or details related to the question]
-        
-        **Tags:** [Optional: Tags or keywords to categorize the question]
