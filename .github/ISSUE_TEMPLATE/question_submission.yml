@@ -4,12 +4,7 @@ title: '[Question]:[Question title]'
 labels: ["Question"]
 
 body:
-  - type: markdown
-    id: into
-    attributes:
-      value: |
-        **Question:**  
-  
+
   - type: textarea
     id: question
     attributes:
