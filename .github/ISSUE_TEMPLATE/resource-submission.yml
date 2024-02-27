@@ -1,10 +1,8 @@
 ---
 name: Resource Submission
-about: 'Template for Resources Submission '
+description: 'Template for Resources Submission'
 title: "[Resource]"
 labels: Resources
-
----
 
 body:
   - type: input
@@ -30,15 +28,13 @@ body:
        label: Description: 
        placeholder: "[Brief description of the resource and its relevance to fact-checking]"
 
- - type: textarea
-     id: link 
-     attributes: 
-       label: Link: 
-       placeholder: "[resource title](URL link)"
-                             
-        ---
+   - type: textarea
+       id: link 
+       attributes: 
+         label: Link: 
+         placeholder: "[resource title](URL link)"
    - type: input
-     id: related
-     attributes: 
-       label: This resource submission is related to
-       placeholder: [Fact-Check Request ####]
+       id: related
+       attributes: 
+         label: This resource submission is related to
+         placeholder: [Fact-Check Request ####]
