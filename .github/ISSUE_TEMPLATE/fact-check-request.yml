@@ -1,0 +1,55 @@
+name: Fact-Check Request
+description: Template for FactCheck Requests
+title: "[FactCheck]:"
+labels: ["FactCheck"]
+
+body:
+  - type: markdown
+    attributes:
+      value: "## Welcome! Use this template to submit a Fact-Check Request"
+      
+  - type: textarea
+    id: description
+    attributes:
+      label: "Briefly describe the claim or statement that needs fact-checking:"
+      description: Write the quesiton of interest 
+      placeholder: "description" 
+  
+  - type: textarea
+    id: source
+    attributes:
+      label: "**Description:**"
+      description: Provide a link or reference to the source of the claim
+      placeholder: "[Title](URL)"
+
+  - type: textarea
+    id: context
+    attributes:
+      label: "**Context:**"
+      description: Explain the context in which the claim was made or any additional information that might be relevant for fact-checking
+      placeholder: "additional information"
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: "**Evidence:**"
+      description: Include any evidence or supporting materials related to the claim (e.g., screenshots, articles, videos).
+      placeholder: "You can upload media to the ticket or past the URL as [title](URL)"
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: "**Additional Notes:**"
+      description: Add any additional notes or instructions for fact-checkers.
+      placeholder: "Related to FactCheck ##"
+
+  - type: checkboxes
+    id: validation
+    attributes:
+      label: "**Additional Validation:**"
+      description: Validation of the ticekt by the team.
+      options: 
+         - label: Fact-Check Request is clear! 
+         - label: Priority assigned.
+         - label: Assignees
+         - label1: Deadline set 
