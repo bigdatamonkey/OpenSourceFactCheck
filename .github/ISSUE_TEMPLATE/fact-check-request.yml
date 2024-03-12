@@ -40,7 +40,7 @@ body:
     id: notes
     attributes:
       label: "**Additional Notes:**"
-      description: Add any additional notes or instructions for fact-checkers.
+      description: "Add any additional notes or instructions for fact-checkers."
       placeholder: "Related to FactCheck ##"
 
   - type: checkboxes
