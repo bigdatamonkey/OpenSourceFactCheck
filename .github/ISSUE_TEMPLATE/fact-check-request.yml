@@ -49,7 +49,7 @@ body:
       label: "**Additional Validation:**"
       description: Validation of the ticekt by the team.
       options: 
-         - label: Fact-Check Request is clear! 
+         - label: Fact-Check Request! 
          - label: Priority assigned.
          - label: Assignees
-         - label: Deadline set 
+         - label: Deadline 
