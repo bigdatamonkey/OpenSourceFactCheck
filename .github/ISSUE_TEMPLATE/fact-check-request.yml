@@ -52,4 +52,4 @@ body:
          - label: Fact-Check Request is clear! 
          - label: Priority assigned.
          - label: Assignees
-         - label1: Deadline set 
+         - label: Deadline set 
