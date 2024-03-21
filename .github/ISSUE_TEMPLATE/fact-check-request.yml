@@ -1,7 +1,7 @@
 name: Fact-Check Request
 description: Template for FactCheck Requests
 title: "[FactCheck]:"
-labels: ["FactCheck"]
+labels: ["Fact-Check Request"]
 
 body:
   - type: markdown
