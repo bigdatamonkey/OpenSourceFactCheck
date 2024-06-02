@@ -30,3 +30,13 @@ If you encounter any bugs in the Oct7FactCheck.com website, have suggestions for
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
+
+<!-- This is commented out. 
+##To-Do: 
+
+- Rename the project to be OpenSource FactCheck. 
+
+-Move the repository to be independent 
+
+- Moving the site towards https://docusaurus.io/docs or  https://www.sphinx-doc.org then usine Github page integration or the likings 
+-->
