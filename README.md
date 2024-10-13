@@ -1,6 +1,6 @@
-# Oct7FactCheck Website
+# Open Source Fact Check Project
 
-Welcome to the Oct7FactCheck Website repository! This repository is dedicated to the development and maintenance of our fact-checking platform, where the public can submit claims for fact-checking and our team of fact-checkers works to verify their accuracy.
+Welcome to the OpenSource Fact-Check project repository! This repository is dedicated to the development and maintenance of our fact-checking platform, where the public can submit claims for fact-checking and our team of fact-checkers and researchers works to verify their accuracy.
 
 ## Submitting Fact-Check Requests
 
@@ -16,7 +16,7 @@ We encourage the public to submit fact-check requests via GitHub Issues. To subm
 
 Our team of fact-checkers will review your request and work on verifying the accuracy of the claim.
 
-**Note**:  You'll need a GitHub account to submit an issue. Alternatively, you can submit your request over the Discord server. [tfp-oct7factcheck](https://discord.com/channels/1186702814341234740/1195760902260142262) tagging the message with #FactCheckRequest 
+**Note**:  You'll need a GitHub account to submit an issue. 
 
 
 ## Contributing
@@ -25,7 +25,7 @@ We welcome contributions from the community to help improve and maintain the Fac
 
 ## Issue Tracker
 
-If you encounter any bugs in the Oct7FactCheck.com website, have suggestions for improvements, please open an issue on our [Issue Tracker](../../issues).
+If you encounter any bugs in the github page, have suggestions for improvements, please open an issue on our [Issue Tracker](../../issues).
 
 ## License
 
